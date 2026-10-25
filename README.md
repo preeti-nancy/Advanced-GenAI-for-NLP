@@ -1,4 +1,5 @@
 # Advanced GenAI for NLP: NewsFindr
+
 This project builds an Agentic AI–powered news retrieval system for NewsFindr to deliver real-time, personalized, and credible news updates.
 By using a structured multi-step retrieval and validation process, the system minimizes misinformation, filters irrelevant content, and enhances user engagement. It streamlines content discovery, reduces information overload, and ensures users consistently receive timely, trustworthy, and highly relevant news.
 
